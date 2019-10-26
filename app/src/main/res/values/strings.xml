@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReyesMelroseLabExer4</string>
+    <string-array name="verName">
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+    </string-array>
+</resources>
